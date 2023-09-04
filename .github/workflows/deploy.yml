@@ -34,9 +34,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
-              - name: Astro Deploy
+          - name: Astro Deploy
                 uses: withastro/action@v0.3.0
+            
+      
             
