@@ -1,6 +1,6 @@
 site:
   name: Lizzie Wilkinson
-  site: 'https://lizziefen1.github.io'
+  site: 'https://trixierex.github.io'
   base: '/'
   trailingSlash: false
 
@@ -11,7 +11,7 @@ metadata:
   title:
     default: Lizzie Wilkinson - UX Designer & Developer
     template: '%s — AstroWind'
-  description: "portfolio of Kansas City Graphic Designer & Web Developer Lizzie Wilkinson"
+  description: "Portfolio of Kansas City Web Developer Lizzie Wilkinson"
   robots:
     index: true
     follow: true
