@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Lizzie Wilkinson
+  site: 'https://lizziefen1.github.io'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: Lizzie Wilkinson - UX Designer & Developer
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "portfolio of Kansas City Graphic Designer & Web Developer Lizzie Wilkinson"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Lizzie Wilkinson
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -79,9 +79,9 @@ ui:
         heading: rgb(0 0 0)
         muted: rgb(40 40 40)
         bgPage: rgb(255 255 255)
-        primary: rgb(0 124 220)
-        secondary: rgb(30 58 138)
-        accent: rgb(109 40 217)
+        primary: rgb(30 58 138)
+        secondary: rgb(92 105 192)
+        accent: rgb(101 35 113)
         info: rgb(119 182 234)
         success: rgb(54 211 153)
         warning: rgb(251 189 35)
@@ -91,10 +91,10 @@ ui:
     dark:
       fonts: {}
       colors:
-        default: rgb(247, 248, 248)
-        heading: rgb(247, 248, 248)
+        default: rgb(247 248 248)
+        heading: rgb(247 248 248)
         muted: rgb(200, 188, 208)
-        bgPage: rgb(3 6 32)
+        bgPage: rgb(75 6 88)
         primary: rgb(29 78 216)
         secondary: rgb(30 58 138)
         accent: rgb(135 77 2267)
