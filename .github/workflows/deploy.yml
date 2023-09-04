@@ -37,3 +37,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+              - name: Astro Deploy
+                uses: withastro/action@v0.3.0
+            
